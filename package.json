@@ -10,7 +10,7 @@
     "./dist/cjs/wowza-webrtc-player.js": "./dist/umd/wowza-webrtc-player.js"
   },
   "engines": {
-    "npm": "8.5.5"
+    "npm": "7.x"
     
   },
   "files": [
