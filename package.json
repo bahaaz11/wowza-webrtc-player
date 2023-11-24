@@ -25,7 +25,7 @@
   "repository": "github:koala-interactive/wowza-webrtc-player",
   "scripts": {
     "lint": "tsc --noEmit && eslint . --ext .ts",
-    "build": "npm install --production=false && npm run build && npm ci",
+    "build": "npm install --production=false && npm run build",
     "update-license": "node utils/update-license.js",
     "update-filesize": "node utils/update-size.js"
   },
